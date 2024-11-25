@@ -1,7 +1,9 @@
 # TravelTide-Consumer-Segmentation-Project
 
-### TravelTide is a rising e-booking startup launched in April 2021, shortly after the COVID-19 pandemic. The company has gained prominence in the online travel industry due to its cutting-edge data aggregation and search technology.
+### TravelTide is a rising travel e-booking startup launched in April 2021. The company has gained prominence in the online travel industry due to its cutting-edge data aggregation and search technology.
  ### However, its focus on creating the largest inventory and an easy search functionality has resulted in gaps in customer experience, leading to low retention. TravelTide CEO aims to address this by developing a marketing strategy rooted in understanding customer behavior.
+
+### Business Request
 
 #### Elena Tarrant, TravelTide's new Head of Marketing, and her goal is to create a personalized rewards program to boost customer loyalty. To succeed, she plans to rely on the data team for deep customer insights.
 
@@ -12,3 +14,8 @@ Behavioral data take time to accumulate. Customers who signed up recently will h
 
 #### We have also analyzed only the trips that were booked and not cancelled by active users. 
 The goal is to filter those users who are the most accurate representation of the TravelTide active and well-established customer.
+
+
+
+### These filters and metrics have been reflected in the SQL query
+{link}
