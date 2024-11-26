@@ -15,6 +15,14 @@ Behavioral data take time to accumulate. Customers who signed up recently will h
 #### We have also analyzed only the trips that were booked and not cancelled by active users. 
 The goal is to filter those users who are the most accurate representation of the TravelTide active and well-established customer.
 
+### Here is the SQL query to get the dataset of segmented active users
+
+https://gist.github.com/olelina/24a65f23bddd6b317b75ec29198621f3
+
+### or here
+
+https://www.notion.so/TravelTide-Master-Project-SQL-query-14a89ecfa13780419d96c16fb6a5bc1a?pvs=4
+
 ### Here is the Lucidchart decision tree diagram that shows the logic behind the user groups segmentation
 
 https://lucid.app/lucidchart/1e9ed2f4-9ded-46ea-b68d-5a987d9087c1/edit?viewport_loc=-1676%2C901%2C2330%2C1158%2C0_0&invitationId=inv_55fad046-b4ed-4232-a26f-b1170d8eea5e
