@@ -33,3 +33,7 @@ https://www.notion.so/TravelTide-Master-Project-SQL-query-14a89ecfa13780419d96c1
 
 https://public.tableau.com/views/TravelTide_Segments_Viz/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+### Presentation of the whole project can be found here
+
+https://drive.google.com/file/d/1EClgkfkMw7nEfN5OS2zM2n_50AHf5SLn/view?usp=sharing
+
