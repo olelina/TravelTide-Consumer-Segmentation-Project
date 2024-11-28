@@ -29,7 +29,7 @@ https://gist.github.com/olelina/24a65f23bddd6b317b75ec29198621f3
 
 https://www.notion.so/TravelTide-Master-Project-SQL-query-14a89ecfa13780419d96c16fb6a5bc1a?pvs=4
 
-###  Tableau dashboard can be found here
+###  Tableau dashboard can be viewed here
 
 https://public.tableau.com/views/TravelTide_Segments_Viz/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
